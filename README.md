@@ -1,0 +1,1 @@
+A population parser I wrote for the capital one challenge on MindSumo. Fairly unoptimized though, I wrote it just for fun and also to refresh my python a bit.
